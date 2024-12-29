@@ -1,0 +1,12 @@
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\bin\Debug\net8.0\Ev-Sınıf-Kütüphane.deps.json
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\bin\Debug\net8.0\Ev-Sınıf-Kütüphane.dll
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\bin\Debug\net8.0\Ev-Sınıf-Kütüphane.pdb
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.csproj.AssemblyReference.cache
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.AssemblyInfoInputs.cache
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.AssemblyInfo.cs
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.dll
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\refint\Ev-Sınıf-Kütüphane.dll
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\Ev-Sınıf-Kütüphane.pdb
+C:\Users\merte\Documents\projelerim\prog_dil_2\Ev-Sınıf-Kütüphane\Ev-Sınıf-Kütüphane\obj\Debug\net8.0\ref\Ev-Sınıf-Kütüphane.dll

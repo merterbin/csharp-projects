@@ -1,0 +1,10 @@
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.AssemblyReference.cache
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\merte\Documents\projelerim\hafiza-oyunu\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb

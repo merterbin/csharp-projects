@@ -1,0 +1,12 @@
+Oda sayısı negatif girildi: -3
+Oda sayısı negatif girildi: -3
+Oda sayısı negatif girildi: -2
+Oda sayısı negatif girildi: -3
+Oda sayısı negatif girildi: -2
+Oda sayısı negatif girildi: -3
+Oda sayısı negatif girildi: -3
+Oda sayısı negatif girildi: -2
+Oda sayısı geçerli girildi: 2
+Oda sayısı geçerli girildi: 2
+Kat numarası geçerli girildi: 3
+Kat numarası hatalı girildi: -3
